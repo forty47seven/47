@@ -117,7 +117,6 @@ while tries < 3:
 
             #5 for password change
             elif checker == 5:
-                #*check for same password
                 #Requests for new password twice for confirmation
                 pass1 = input('Enter new password: ')
                 pass2 = input('Enter password again: ')
